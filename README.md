@@ -5,4 +5,4 @@ A Convolutional Neural Network has been trained on the dataset  Computed Tomogra
 
 Training was done on 2251 images and validation was done on 250 images
 
-A training accuracy of 83 percentage and a validation accuracy of 80 percentage was obtained
+A training accuracy of 90 percentage and a validation accuracy of 77 percentage was obtained
